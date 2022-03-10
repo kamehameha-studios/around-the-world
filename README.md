@@ -4,5 +4,11 @@ We're here.
   Kamehameha Studios isn't just a place for Dragon Ball, or Animaniacs, or Encanto, it's also a place to learn coding. In this repo, you can navigate to the website
   and learn about the history of coding and even learn coding itself. Come on, travel around the world!
 </details>
-To travel around the world, you need an account.<br>
+<details>
+  <summary>
+    Requires
+  </summary>
+  To travel around the world, you need an account.
+</details><br>
+<br>
 Happy Coding!
